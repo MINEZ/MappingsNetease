@@ -19,23 +19,23 @@
     "netherite_horse_armor": "leather_horse_armor"
   },
   "itemnames": {
-    "nautilus_spawn_egg": "1.21.11 Nautilus Spawn Egg",
-    "zombie_nautilus_spawn_egg": "1.21.11 Zombie Nautilus Spawn Egg",
-    "wooden_spear": "1.21.11 Wooden Spear",
-    "stone_spear": "1.21.11 Stone Spear",
-    "copper_spear": "1.21.11 Copper Spear",
-    "iron_spear": "1.21.11 Iron Spear",
-    "golden_spear": "1.21.11 Golden Spear",
-    "diamond_spear": "1.21.11 Diamond Spear",
-    "netherite_spear": "1.21.11 Netherite Spear",
-    "iron_nautilus_armor": "1.21.11 Iron Nautilus Armor",
-    "golden_nautilus_armor": "1.21.11 Golden Nautilus Armor",
-    "diamond_nautilus_armor": "1.21.11 Diamond Nautilus Armor",
-    "netherite_nautilus_armor": "1.21.11 Netherite Nautilus Armor",
-    "copper_nautilus_armor": "1.21.11 Copper Nautilus Armor",
-    "camel_husk_spawn_egg": "1.21.11 Camel Husk Spawn Egg",
-    "parched_spawn_egg": "1.21.11 Parched Spawn Egg",
-    "netherite_horse_armor": "1.21.11 Netherite Horse Armor"
+    "nautilus_spawn_egg": "鹦鹉螺刷怪蛋",
+    "zombie_nautilus_spawn_egg": "僵尸鹦鹉螺刷怪蛋",
+    "wooden_spear": "木矛",
+    "stone_spear": "石矛",
+    "copper_spear": "铜矛",
+    "iron_spear": "铁矛",
+    "golden_spear": "金矛",
+    "diamond_spear": "钻石矛",
+    "netherite_spear": "下界合金矛",
+    "iron_nautilus_armor": "铁鹦鹉螺铠",
+    "golden_nautilus_armor": "金鹦鹉螺铠",
+    "diamond_nautilus_armor": "钻石鹦鹉螺铠",
+    "netherite_nautilus_armor": "下界合金鹦鹉螺铠",
+    "copper_nautilus_armor": "铜鹦鹉螺铠",
+    "camel_husk_spawn_egg": "骆驼尸壳刷怪蛋",
+    "parched_spawn_egg": "焦骸刷怪蛋",
+    "netherite_horse_armor": "下界合金马铠"
   },
   "sounds": {
     "item.armor.equip_nautilus": "",
@@ -114,10 +114,10 @@
     "parched": "skeleton"
   },
   "entitynames": {
-    "nautilus": "Nautilus",
-    "zombie_nautilus": "Zombie Nautilus",
-    "camel_husk": "Camel Husk",
-    "parched": "Parched"
+    "nautilus": "鹦鹉螺",
+    "zombie_nautilus": "僵尸鹦鹉螺",
+    "camel_husk": "骆驼尸壳",
+    "parched": "焦骸"
   },
   "data_component_type": {
     "use_effects": "",
