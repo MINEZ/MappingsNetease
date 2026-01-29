@@ -1,0 +1,60 @@
+{
+  "data_component_type": {
+    "additional_trade_cost": "",
+    "dye": ""
+  },
+  "sounds": {
+    "entity.baby_cat.ambient": "",
+    "entity.baby_cat.stray_ambient": "",
+    "entity.baby_cat.death": "",
+    "entity.baby_cat.eat": "",
+    "entity.baby_cat.hiss": "",
+    "entity.baby_cat.beg_for_food": "",
+    "entity.baby_cat.hurt": "",
+    "entity.baby_cat.purr": "",
+    "entity.baby_cat.purreow": "",
+    "entity.baby_pig.ambient": "",
+    "entity.baby_pig.death": "",
+    "entity.baby_pig.hurt": "",
+    "entity.baby_pig.step": "",
+    "entity.baby_wolf.ambient": "",
+    "entity.baby_wolf.death": "",
+    "entity.baby_wolf.growl": "",
+    "entity.baby_wolf.hurt": "",
+    "entity.baby_wolf.pant": "",
+    "entity.baby_wolf.step": "",
+    "entity.baby_wolf.whine": "",
+    "entity.baby_horse.ambient": "",
+    "entity.baby_horse.angry": "",
+    "entity.baby_horse.breathe": "",
+    "entity.baby_horse.death": "",
+    "entity.baby_horse.eat": "",
+    "entity.baby_horse.hurt": "",
+    "entity.baby_horse.land": "",
+    "entity.baby_horse.step": "",
+    "entity.baby_chicken.ambient": "",
+    "entity.baby_chicken.death": "",
+    "entity.baby_chicken.hurt": "",
+    "item.golden_dandelion.use": "",
+    "item.golden_dandelion.unuse": ""
+  },
+  "blockstates": {
+    "golden_dandelion": "dandelion",
+    "potted_golden_dandelion": "potted_dandelion"
+  },
+  "items": {
+    "golden_dandelion": "dandelion"
+  },
+  "itemnames": {
+    "golden_dandelion": "26.1 Golden Dandelion"
+  },
+  "recipe_serializers": {
+    "crafting_dye": "",
+    "crafting_imbue": ""
+  },
+  "slot_displays": {
+    "with_any_potion": "",
+    "only_with_component": "",
+    "dyed": ""
+  }
+}
